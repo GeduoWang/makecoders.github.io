@@ -1,0 +1,20 @@
+<h1>Welcome!</h1>
+
+<p class="lead">
+  MakeCoders is a code learning aggregator. We find and categorize great learning resources.
+</p>
+
+<h2>Recent Posts</h2>
+
+<ul class="blog-list">
+  <%
+  // with using the metadata features in harp,
+  // we can use the data like this, to control the blog list.
+  var posts = public.posts._data;
+      for(var post in posts){ %>
+  <li>
+    <a href="/posts/<%=post%>"><%=posts[post].title%></a>
+    <p><%=posts[post].excerpt%></p>
+  </li>
+  <% } %>
+</ul>

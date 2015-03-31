@@ -2,11 +2,11 @@
 <% 
 // with using the metadata features in harp, 
 // we can use the data like this, to control the blog list.
-var blogs = public.blogs._data;
-for(var blog in blogs){ %>
+var posts = public.posts._data;
+for(var post in posts){ %>
 <li>
-    <a href="/blogs/<%=blog%>"><%=blogs[blog].title%></a>
-    <p><%=blogs[blog].excerpt%></p>
+    <a href="/posts/<%=post%>"><%=posts[post].title%></a>
+    <p><%=posts[post].excerpt%></p>
 </li>
 <% } %>
 </ul>
