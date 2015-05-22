@@ -65,8 +65,8 @@ The following technology is how I build Full Stack JavaScript mobile, web and se
 
 ### Books
 
-* Functional JavaScript
-* Full-stack Mobile App with Ionic - Only $.99. Kindle only, if you don’t have a Kindle install the app on iPhone, iPad or OSX
+* [Functional JavaScript](http://www.amazon.com/Functional-JavaScript-Introducing-Programming-Underscore-js/dp/1449360726)
+* [Full-stack Mobile App with Ionic](http://www.amazon.com/Full-Stack-Mobile-Ionic-Framework-ebook/dp/B00QF1H380) - Only $.99. Kindle only, if you don’t have a Kindle install the app on iPhone, iPad or OSX
 
 ### Tutorials
 
@@ -76,7 +76,7 @@ I’ll put together tutorials in each stage of learning, beginner, intermediate,
 
 ### Articles
 
-10 Best Tutorials To Learn AngularJS 
+[10 Best Tutorials To Learn AngularJS](http://www.hongkiat.com/blog/angularjs-tutorials-screencast)
 
 ### Tools
 
