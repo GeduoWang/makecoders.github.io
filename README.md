@@ -78,16 +78,23 @@ I’ll put together tutorials in each stage of learning, beginner, intermediate,
 
 ### Tools
 
-#### Software Development
+#### Software Editors
 
-* Webstorm - $99 - the best web development editor for Javascript I know of
-* Sublime - $70 - another good web development tool
-* Atom - Free - open source software development editor with plugins for Javascript. Great tool.
-* Appcelerator Titanium - Free - A Web/Javascript development editor. Note, this was originally built for Titanium, another mobile technology like Cordova above. I like Cordova, butter, but it is worth looking at later.
-* MacVim - Kind of for uber nerds, but I do like it.
+* [Webstorm](https://www.jetbrains.com/webstorm/) - $99 - the best web development editor for Javascript I know of
+* [Sublime](http://www.sublimetext.com/) - $70 - another good web development tool
+* [Atom](https://atom.io) - Free - open source software development editor with plugins for Javascript. Great tool.
+* [Appcelerator](http://www.appcelerator.com/product/) Titanium - Free - A Web/Javascript development editor. Note, this was originally built for Titanium, another mobile technology like Cordova above. I like Cordova, butter, but it is worth looking at later.
+* [MacVim](https://github.com/b4winckler/macvim) - Kind of for uber nerds, but I do like it.
+
+#### Software Services / Tools
+
+* [Github](http://github.com) - Powerful collaboration, code review, and code management for open source and private projects. 
+* [Npm.js](https://www.npmjs.com) - npm is the package manager for Javascript and specifically node applications. Packages are reusable code that you can install in your app to perform certain operations. Do crazy math, talk to Twitter.com, format some text.. don't reinvent the wheel use npm.
+* [Bower](http://bower.io/) - another package manager for Javascript but for browser based applications only.
 
 
 #### Hardware
+
 Both Windows and OSX are fine for getting started with programming. However I am focused on OSX since it has many parallels with Linux, the operating system that is powering most of the servers on the web.
 
 #### OSX
