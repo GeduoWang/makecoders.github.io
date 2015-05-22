@@ -13,7 +13,9 @@ I am pulling together some thoughts and resources that will drive the content fo
 Below are some thoughts on why new developers should start with Javascript.
 
 #### Kevin Baker
-> Javascript is an easy to learn programming language that works everywhere. It is literally the only language that can be used for mobile, web and server development. Traditionally a programmer would need to learn a separate programming language for each platform. From a learning standpoint Javascript is very efficient, because allows a developer to get started with one programming and effectively create software with the single skillset.
+> Javascript is an easy to learn programming language that works everywhere. It is the only language I know of that can be used for all major mobile platforms, web and server development. Traditionally a programmer would need to learn a separate programming language for each platform. 
+>
+>From a learning standpoint Javascript is very efficient, since it allows a developer to get started on most major platforms with one programming language. This just opens up all kinds of possibilities.
 > 
 > Keep in mind that there are  zillion ways to combine technology into the “Stack” you will be using. Initially it’s good to focus on technologies that are reusable across platforms and popular in the market simply because you will get better and higher paying work when you are ready. 
 
